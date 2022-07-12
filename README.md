@@ -3,7 +3,7 @@
 # Challenge 01
 ## 1 Executer le script de création des tables
 
-- Se connecter au serveur postgres en tant qu'utilisateur mysql
+- Se connecter au serveur mysql en tant qu'utilisateur mysql
 - Créer un utilisateur `wilder` avec un mot de passe
 - Créer une base de données `wilder` appartenant à l'utilisateur `wilder`
 - Regarder le fichier `db.sql` et le comprendre
